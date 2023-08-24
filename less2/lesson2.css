@@ -1,0 +1,88 @@
+    #uber{
+        background-color: #000000;
+        color: white;
+        border: none;
+        width: 100px;
+        height: 40px;
+    }
+    #amazon{
+        background-color: rgb(255, 216,20);
+        color: black;
+        border: none;
+        width: 160px;
+        height: 40px;
+        border-radius: 20px;
+    }
+    #github{
+        background-color: rgb(64, 164, 79);
+        color: white;
+        height: 40px;
+        width: 110px;
+        border: none;
+        border-radius: 5px;
+        font-size: 15px;
+    }
+    #bootstrap_s{
+        background-color: rgb(121, 82,179) ;
+        color: white;
+        border: none;
+        height: 40px;
+        width: 100px;
+        border-radius: 4px;
+
+
+    }
+    #bootstrap_d{
+        background-color: white;
+        color: rgb(108, 117,125);
+        border: 1px solid;
+        height: 40px;
+        width: 100px;
+        border-radius: 4px;
+
+
+    }
+    #linkedin_a{
+        background-color: rgb(10, 102,194);
+        color: white;
+        font-weight: bold;
+        border: none;
+        height: 40px;
+        width: 200px;
+        border-radius: 20px;
+    }
+    #linkedin_s{
+        background-color:white;
+        color: rgb(29, 29, 170);
+        border: 1px solid;
+        font-weight: bold;
+        height: 40px;
+        width: 80px;
+        border-radius: 20px;
+    }
+
+    #back{
+        color:rgb(0, 113, 133) ;
+    }
+    #nike{
+        font-weight: bold;
+        font-size: 40px;
+    }
+    #stock{
+        color: rgb(0, 118, 0);
+        font-weight: bold;
+    }
+    #card{
+        background-color: rgb(255, 216, 20);
+        border: none;
+        border-radius: 20px;
+        height: 30px;
+        width: 120px;
+    }
+    #buy{
+        background-color: rgb(255, 164, 28);
+        border: none;
+        border-radius: 20px;
+        height: 30px;
+        width: 120px;
+    }

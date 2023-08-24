@@ -1,0 +1,105 @@
+.name {
+    display: block;
+    margin-bottom: 5px;
+  }
+.par{
+    display: inline-block;
+    width: 300px;
+    vertical-align: middle;
+}
+.googleimg{
+    display: block;
+    width: 200px;
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+.googletxt{
+    border: none;
+    display: block;
+    padding: 10px 10px 15px 15px;
+    font-size: 15px;
+    width: 500px;
+    border-radius: 30px;
+    box-shadow: 0 2px 7px rgba(7, 7, 7, 0.2);
+    margin-bottom: 20px;
+  }
+
+
+.first {
+    border: 1px solid rgb(187, 183, 183);
+    padding: 10px 10px 15px 15px;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-bottom: 12px;
+    width: 150px;
+}
+  
+.last {
+    border: 1px solid rgb(187, 183, 183);
+    padding: 10px 10px 15px 15px;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-bottom: 12px;
+    width: 150px;
+}
+  
+.email {
+    border: 1px solid rgb(187, 183, 183);
+    padding: 10px 10px 15px 15px;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-bottom: 12px;
+    display: block;
+    width: 300px;
+}
+.signup{
+    background-color: rgb(32, 90, 165);
+    color: white;
+    border: none;
+    width: 300px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.head {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.location{
+    display: block;
+    background-color: rgb(223, 220, 220);
+    border: none;
+    margin-bottom: 10px;
+    padding: 15px 15px 20px 20px;
+    font-size: 15px;
+    width: 400px;
+}
+.destination {
+    display: block;
+    background-color: rgb(223, 220, 220);
+    border: none;
+    margin-bottom: 10px;
+    padding: 15px 15px 20px 20px;
+    font-size: 15px;
+    width: 400px;
+    margin-bottom: 30px;
+}
+  
+.request {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 15px 15px 20px 20px;
+    font-size: 15px;
+    margin-right: 20px;
+}
+  
+.schedule{
+    background-color: rgb(240, 240, 240);
+    border: none;
+    padding: 15px 15px 20px 20px;
+    font-size: 16px;
+}

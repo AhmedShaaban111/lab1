@@ -1,0 +1,110 @@
+.im{
+    width: 200px;
+    border-radius: 10%;
+}
+
+.im2{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.im3{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.input1 {
+    font-size: 15px;
+    border: 1px solid rgb(180, 178, 178);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+  }
+.input2 {
+    font-size: 15px;
+    width: 400px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 30px;
+    box-shadow: 0 2px 4px rgba(19, 19, 19, 0.25);
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+
+  .email {
+    font-family: arial;
+    color: grey;
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  
+  .email-box {
+    font-family: arial;
+    color: grey;
+    font-size: 15px;
+    width: 400px;
+    border: 2px solid grey;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .par {
+    font-family: arial;
+    color: grey;
+    font-size: 15px;
+    margin-bottom: 20px;
+  }
+  
+  .agree {
+    font-family: arial;
+    color: grey;
+    background-color: rgb(9, 86, 163);
+    color: white;
+    border: none;
+    font-size: 20px;
+    width: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 30px;
+  }
+
+
+
+  .profile {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 4px;
+  }
+  
+  .insidetext {
+    font-size: 18px;
+    border: none;
+    width: 400px;
+    vertical-align: middle;
+  }
+  
+  .tweet {
+    background-color: rgb(22, 113, 173);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: bold;
+    vertical-align: middle;
+  }

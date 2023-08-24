@@ -1,0 +1,174 @@
+.red {
+    background-color: red;
+    width: 75px;
+    height: 75px;
+    display: inline-block;
+  }
+.green {
+    display: inline-block;
+    background-color: green;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+}
+.main{
+    border: 1px solid grey;
+    font-family: Arial;
+    margin-bottom: 20px;
+
+}
+  
+.nested{ 
+    width: 300px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+}
+.button1{
+    margin-left: 15px;
+    margin-bottom: 20px;
+}
+
+.main2 {
+    background-color: rgb(33, 33, 33);
+    width: 360px;
+    height: 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+}
+  
+.nested2 {
+    font-family: Arial;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+  
+.nested3 {
+    font-family: Arial;
+    color: rgb(160, 160, 160);
+}
+
+.main3 {
+    box-shadow: 0 2px 7px rgba(8, 8, 8, 0.3);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+    width: 450px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+  }
+
+
+.profile {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 4px;
+  }
+  
+.insidetext {
+    font-size: 18px;
+    border: none;
+    width: 300px;
+    vertical-align: middle;
+}
+  
+.tweet {
+    background-color: rgb(22, 113, 173);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+
+.main4 {
+    width: 200px;
+    box-shadow: 0 0 5px rgba(2, 2, 2, 0.3);
+    display: inline-block;
+}
+  
+.im4 {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 12px;
+}
+
+.name {
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+.mutual{
+    font-family: Arial;
+    color: rgb(100, 100, 100);
+    margin-left: 8px;
+    margin-bottom: 12px;
+}
+  
+.add{
+    background-color: rgb(22, 108, 221);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-left: 8px;
+    margin-bottom: 10px;
+}
+
+
+.google2 {
+    background-color: rgb(245, 245, 245);
+    border: none;
+    font-size: 15px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .d1 {
+    text-align: center;
+  }
+  
+  .logo {
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .input4 {
+    border: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 16px;
+    width: 500px;
+    border-radius: 30px;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+    margin-bottom: 30px;
+  }
+  
+ 
